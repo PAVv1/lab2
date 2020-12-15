@@ -1,0 +1,11 @@
+# Read the numbers b and h like this: 
+
+print('chakrapani anisetti')
+
+b = int(input()) #enter base of triangle
+
+h= int(input()) #enter height of triangle
+
+area=0.5*b*h
+
+print(area)

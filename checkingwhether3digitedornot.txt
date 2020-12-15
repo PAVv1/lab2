@@ -1,0 +1,7 @@
+# Read an integer:
+print('chakrapani anisetti')
+a=int(input("Enter your number:")
+if(a < 1000 and a > 99):
+    print("yes")
+else:
+    print("no")
